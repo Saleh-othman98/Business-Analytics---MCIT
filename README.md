@@ -1,5 +1,7 @@
 # [Business-Analytics-MCIT]( https://confirm.udacity.com/C4CVFPTT ) 
-
+. 
+> ![CERTIFICATE](https://user-images.githubusercontent.com/119724534/213337678-d8a509a5-809a-4a50-bf57-820498b29c24.jpg)
+.
 
 ## Project 1: Working with data
 
